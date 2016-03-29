@@ -1,0 +1,21 @@
+background {
+	background: #EEEEEE;
+  /*background: center no-repeat url(background.png);*/
+}
+
+.logo {
+  background-image: url(https://lh3.googleusercontent.com/MaPzDv5uS-2fF93tF1d1q60JL1dWLnXGt-dmNtkKJbLdNYHCPrS2LYEOaxM4MVObOrk=w500);
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+.splash {
+  /*background-image: url(splash.png);*/
+}
+
+.watermark {
+  /*background-image: url(watermark.png);*/
+  background-size: 57px 57px;
+}
